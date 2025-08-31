@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @pankajkandpal7500
-- 👀 I’m interested in Data Analyst/ Business Analyst Role 
-- 🌱 I’m currently learning Power BI, SQL, Python
-- 📫 You can Reach me on pankajkandpal7500@gmail.com
+# Hi, I'm Pankaj Kandpal 👋  
 
+💻 Aspiring **Automation Test Engineer** with a strong foundation in **Java, Selenium, and Manual Testing**.  
+I enjoy building robust automation scripts, exploring testing frameworks, and ensuring software quality through effective test strategies.  
 
-<!---
-pankajkandpal7500/pankajkandpal7500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Skills & Tools:  
+- **Automation:** Java, Selenium WebDriver  
+- **Testing:** Manual Testing, Functional, Regression, Smoke & Sanity Testing  
+- **Tools & Platforms:** TestNG, JUnit, Maven, Git/GitHub, Eclipse, JIRA  
+- **Database:** SQL  
+
+🌱 Currently enhancing my skills in **Automation Framework Design** and **API Testing**.  
+🎯 Goal: To contribute as an **Automation Test Engineer** where I can design, execute, and optimize test automation solutions.  
+
+---

@@ -1,6 +1,6 @@
 # Hi, I'm Pankaj Kandpal 👋  
 
-💻 Aspiring **Automation Test Engineer** with a strong foundation in **Java, Selenium, and Manual Testing**.  
+ **Automation Test Engineer** with a strong foundation in **Java, Selenium, and Manual Testing**.  
 I enjoy building robust automation scripts, exploring testing frameworks, and ensuring software quality through effective test strategies.  
 
 🔹 Skills & Tools:  
